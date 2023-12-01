@@ -4,4 +4,4 @@ This weather app allows users to get real-time weather information for a specifi
 
 Technology Used : HTML5, CSS3, Javascript.
 
-You can see the live demo of the app here:
+You can see the live demo of the app here:https://jitendrasinghr.github.io/weatherApp/
